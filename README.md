@@ -2,11 +2,12 @@
 
 Currently learning .NET and Quantum Computing.
 
-I, along with some friends, made a game- https://katsys.itch.io/clear
+I, along with some friends, made a <a href="https://katsys.itch.io/clear">game!</a>
 
+Sometimes I feel <a href="https://www.behance.net/katsys">creative!</a>
+
+Oh.. and here's my <a href="https://www.linkedin.com/in/koustav-acharya-55a90a156/">LinkedIn</a>
 
 
 More updates coming soon!
-
-<a href="https://www.youtube.com/watch?v=rmL1D_aWTAY&list=WL&index=15&t=0s">Stay alive~</a>
 
