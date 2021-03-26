@@ -1,6 +1,6 @@
 ## Hello World!
 
-Currently learning .NET and Quantum Computing.
+Currently learning .NET
 
 I, along with some friends, made a <a href="https://katsys.itch.io/clear">game!</a>
 
