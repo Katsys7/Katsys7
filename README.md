@@ -6,4 +6,5 @@ Sometimes I feel <a href="https://www.behance.net/katsys">creative!</a>
 
 Oh.. and here's my <a href="https://www.linkedin.com/in/katsys">LinkedIn</a>
 
+Also my <a href="https://www.instagram.com/katsyso">Instagram</a>
 
